@@ -1,0 +1,35 @@
+/*
+*Chloe Wenner
+*Due Date
+*Project Name and Description
+*/
+
+/* The universal selector*?
+
+* {
+} 
+/* Body properties here */
+
+body {
+width:60%;
+margin: auto;
+background-color: paleturquoise;
+font-family:Arial,Helvetica
+}
+
+h1{
+background-color: lightcoral;
+color: blanchedalmond;
+}
+
+p{
+color: lightcoral
+}
+
+#redText{
+color: red;
+}
+
+.greenText {
+color:green;
+}
